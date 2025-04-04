@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>LinqProject.DesignPrinciples.LiskovSubstitution.Example1</StartupObject>
+    <StartupObject>LinqProject.DesignPatterns.CreationalDesignPattern.FactaryMethodDesignPattern.FactoryMethodDesignPattern</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,7 @@
     <Compile Include="DesignPatterns\BehaviouralDesignPattern\CommandDesignPattern\CommandExample1\CommandExample1.cs" />
     <Compile Include="DesignPatterns\BehaviouralDesignPattern\CommandDesignPattern\CommandExample2\CommandExample2.cs" />
     <Compile Include="DesignPatterns\BehaviouralDesignPattern\MediatorDesignPattern\MediatorExample1\MediatorExample1.cs" />
+    <Compile Include="DesignPatterns\CreationalDesignPattern\FactaryMethodDesignPattern\FactoryMethodDesignPattern.cs" />
     <Compile Include="DesignPrinciples\LiskovSubstitution\Example1.cs" />
     <Compile Include="GenericDelegates\GenericDelegates.cs" />
     <Compile Include="Indexer\Example1\IndexerExample1.cs" />
